@@ -4,6 +4,8 @@
 - 📫 You can message me on discord (joshstar__) if you have anything you need to discuss with me privately.
  
 My computer science GCSE is next month :( (OCR)
+
+Bean is love. Bean is life.
 <!---
 Joshstarrrr/Joshstarrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
