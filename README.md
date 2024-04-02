@@ -2,7 +2,8 @@
 - 👀 I’m interested in computers as a whole / how they work and a lot of games, such as any VSRG game. 90% of people that have found this profile probably know me from the VSRG community lol
 - 🌱 I’m currently learning Python as i am still relatively new to coding as a whole and i plan to learn languages such as JS / typescript in the future (when i inevitibly have to at sixth form lol)
 - 📫 You can message me on discord (joshstar__) if you have anything you need to discuss with me privately.
-
+ 
+My computer science GCSE is next month :( (OCR)
 <!---
 Joshstarrrr/Joshstarrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
