@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python/C# (for unity) as i am still relatively new to coding as a whole and i plan to learn languages such as JS / typescript in the future (when i inevitibly have to at sixth form lol)
 - 📫 You can message me on discord (joshstar__) if you have anything you need to discuss with me privately.
  
-My computer science GCSE is in like 2 weeks :( (OCR)
+GCSEs almost done!!!!!
 
 Bean is love. Bean is life.
 <!---
